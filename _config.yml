@@ -1,0 +1,12 @@
+title:            mpp - @DrUtonium
+url:              http://mpp.su
+permalink:        pretty
+highlighter:      pygments
+markdown:         rdiscount
+rdiscount:
+  extensions:     [smart]
+timezone:         Asia/Kolkata
+paginate: 5
+links: 
+  - name:         About
+    url:          /about
