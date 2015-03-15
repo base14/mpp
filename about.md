@@ -9,6 +9,6 @@ Originally from Townsville.
 
 <br />
 
-[Twitter](https://twitter.com/i0t
+[Twitter](https://twitter.com/i0t)
 
 <br />
