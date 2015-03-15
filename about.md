@@ -9,6 +9,8 @@ Originally from Townsville.
 
 <br />
 
-[Twitter](https://twitter.com/i0t)
+[Twitter](https://twitter.com/)
+
+[Email](mailto:x@mpp.su?subject=Hello Professor)
 
 <br />
